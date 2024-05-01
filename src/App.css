@@ -27,6 +27,9 @@
 .App-link {
   color: #61dafb;
 }
+.add-to-cart-button {
+  background-color: #315f6c;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +38,6 @@
   to {
     transform: rotate(360deg);
   }
+
+  
 }
